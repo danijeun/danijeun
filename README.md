@@ -1,8 +1,12 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Daniel Jeun
-===================================================================================================================================
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="waving hand" />
+</p>
 
-I'm an NJIT data scientist interested in Generative AI & Data Science
------------------------------------------------------------------------
+<h1 align="center">Hi 👋 My name is Daniel Jeun</h1>
+
+<p align="center">
+  I'm an NJIT data scientist interested in Generative AI & Data Science
+</p>
 
 * 🌍  I'm based in New York City
 * ✉️  You can contact me at [dj287@njit.edu](mailto:dj287@njit.edu)

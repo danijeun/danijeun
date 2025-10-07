@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 My name is Daniel Jeun</h1>
 
 <p align="center">
-  I'm an NJIT data scientist interested in Generative AI & Data Science
+  I'm an NJIT data scientist interested in AI & ML.
 </p>
 
 * 🌍  I'm based in New York City

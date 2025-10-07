@@ -5,7 +5,7 @@
 </p>
 
 * 🌍  I'm based in New York City
-* ✉️  You can contact me at [dj287@njit.edu](mailto:dj287@njit.edu)
+* ✉️  You can contact me at [danijeun@gmail.com](mailto:danijeun@gmail.com)
 
 ### Skills
 
